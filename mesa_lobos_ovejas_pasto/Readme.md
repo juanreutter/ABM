@@ -1,0 +1,6 @@
+## Como visualizar
+
+
+```
+    $ mesa runserver
+```
